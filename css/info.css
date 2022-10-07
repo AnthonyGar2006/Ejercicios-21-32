@@ -1,0 +1,16 @@
+﻿body {
+    background-color: #1EB0D7;
+}
+
+
+
+header {
+    background: #333;
+    height: 50px;
+}
+
+h1 {
+    font-family: Tahoma;
+    color: white;
+    line-height: 60px;
+}

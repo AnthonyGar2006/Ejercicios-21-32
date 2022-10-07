@@ -1,0 +1,9 @@
+﻿body {
+    background-color: black
+}
+
+h1 {
+    
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(#000000, #ffffff, #000000);
+}
